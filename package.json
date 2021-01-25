@@ -25,6 +25,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
+    //Something simple, hi brandon : )
     // "deploy": "gh-pages -b introduction -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
