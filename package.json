@@ -1,5 +1,5 @@
 {
-  "homepage": "https://sophiaorlando.github.io/sophiaPortfolio/",
+  "homepage": "https://sophiaorlando.github.io/sophiaPortfolio",
   "name": "sophiaPortfolio",
   "version": "0.1.0",
   "private": true,
@@ -25,8 +25,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    //Something simple, hi brandon : )
-    // "deploy": "gh-pages -b introduction -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
