@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/sophiaPortfolio/static/css/main.d275db8d.chunk.css",
-    "main.js": "/sophiaPortfolio/static/js/main.1567ad14.chunk.js",
-    "main.js.map": "/sophiaPortfolio/static/js/main.1567ad14.chunk.js.map",
+    "main.css": "/sophiaPortfolio/static/css/main.a16e73b5.chunk.css",
+    "main.js": "/sophiaPortfolio/static/js/main.ccf2f4bc.chunk.js",
+    "main.js.map": "/sophiaPortfolio/static/js/main.ccf2f4bc.chunk.js.map",
     "runtime-main.js": "/sophiaPortfolio/static/js/runtime-main.8d2e9a89.js",
     "runtime-main.js.map": "/sophiaPortfolio/static/js/runtime-main.8d2e9a89.js.map",
     "static/css/2.86fbdad3.chunk.css": "/sophiaPortfolio/static/css/2.86fbdad3.chunk.css",
-    "static/js/2.62333fdd.chunk.js": "/sophiaPortfolio/static/js/2.62333fdd.chunk.js",
-    "static/js/2.62333fdd.chunk.js.map": "/sophiaPortfolio/static/js/2.62333fdd.chunk.js.map",
+    "static/js/2.b71b2d57.chunk.js": "/sophiaPortfolio/static/js/2.b71b2d57.chunk.js",
+    "static/js/2.b71b2d57.chunk.js.map": "/sophiaPortfolio/static/js/2.b71b2d57.chunk.js.map",
     "index.html": "/sophiaPortfolio/index.html",
     "static/css/2.86fbdad3.chunk.css.map": "/sophiaPortfolio/static/css/2.86fbdad3.chunk.css.map",
-    "static/css/main.d275db8d.chunk.css.map": "/sophiaPortfolio/static/css/main.d275db8d.chunk.css.map",
-    "static/js/2.62333fdd.chunk.js.LICENSE.txt": "/sophiaPortfolio/static/js/2.62333fdd.chunk.js.LICENSE.txt",
+    "static/css/main.a16e73b5.chunk.css.map": "/sophiaPortfolio/static/css/main.a16e73b5.chunk.css.map",
+    "static/js/2.b71b2d57.chunk.js.LICENSE.txt": "/sophiaPortfolio/static/js/2.b71b2d57.chunk.js.LICENSE.txt",
     "static/media/BudgetTracker.dfd49552.png": "/sophiaPortfolio/static/media/BudgetTracker.dfd49552.png",
     "static/media/BudgetTrackerDemo.cda8ef8b.gif": "/sophiaPortfolio/static/media/BudgetTrackerDemo.cda8ef8b.gif",
     "static/media/Disney-1.19ce923b.png": "/sophiaPortfolio/static/media/Disney-1.19ce923b.png",
@@ -54,6 +54,9 @@
     "static/media/mysql.822ba7d7.svg": "/sophiaPortfolio/static/media/mysql.822ba7d7.svg",
     "static/media/nodejs.52cbf9a8.svg": "/sophiaPortfolio/static/media/nodejs.52cbf9a8.svg",
     "static/media/photoshop-cc.b34779d4.svg": "/sophiaPortfolio/static/media/photoshop-cc.b34779d4.svg",
+    "static/media/planet1.e4c7289d.svg": "/sophiaPortfolio/static/media/planet1.e4c7289d.svg",
+    "static/media/planet2.4112f282.svg": "/sophiaPortfolio/static/media/planet2.4112f282.svg",
+    "static/media/planet3.5c3e6af2.svg": "/sophiaPortfolio/static/media/planet3.5c3e6af2.svg",
     "static/media/profPic2.6eda464c.jpg": "/sophiaPortfolio/static/media/profPic2.6eda464c.jpg",
     "static/media/react-bootstrap.534ba574.svg": "/sophiaPortfolio/static/media/react-bootstrap.534ba574.svg",
     "static/media/react-router.a87b7227.svg": "/sophiaPortfolio/static/media/react-router.a87b7227.svg",
@@ -61,6 +64,8 @@
     "static/media/redux.0e4fb1c8.svg": "/sophiaPortfolio/static/media/redux.0e4fb1c8.svg",
     "static/media/sass-1.8aa78a83.svg": "/sophiaPortfolio/static/media/sass-1.8aa78a83.svg",
     "static/media/ship.859f5573.gif": "/sophiaPortfolio/static/media/ship.859f5573.gif",
+    "static/media/spaceship.0ee9006d.svg": "/sophiaPortfolio/static/media/spaceship.0ee9006d.svg",
+    "static/media/star1.444cf64a.svg": "/sophiaPortfolio/static/media/star1.444cf64a.svg",
     "static/media/stars.a6ab7faa.jpg": "/sophiaPortfolio/static/media/stars.a6ab7faa.jpg",
     "static/media/steroids.737896c3.jpg": "/sophiaPortfolio/static/media/steroids.737896c3.jpg",
     "static/media/styled-components.2e00d138.svg": "/sophiaPortfolio/static/media/styled-components.2e00d138.svg",
@@ -72,8 +77,8 @@
   "entrypoints": [
     "static/js/runtime-main.8d2e9a89.js",
     "static/css/2.86fbdad3.chunk.css",
-    "static/js/2.62333fdd.chunk.js",
-    "static/css/main.d275db8d.chunk.css",
-    "static/js/main.1567ad14.chunk.js"
+    "static/js/2.b71b2d57.chunk.js",
+    "static/css/main.a16e73b5.chunk.css",
+    "static/js/main.ccf2f4bc.chunk.js"
   ]
 }
