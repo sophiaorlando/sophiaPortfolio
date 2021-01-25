@@ -19,7 +19,7 @@ ReactDOM.render(
         {/* <Route path="/projectpage/:id" render={props => <ProjectPage currentProj={myProjects}/>}>
           <ProjectPage/>
         </Route> */}
-        <Route exact path="/" component={App}>
+        <Route exact path="/sophiaPortfolio" component={App}>
           {/* App */}
         </Route>
       </Switch>

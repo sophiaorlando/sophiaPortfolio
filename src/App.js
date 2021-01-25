@@ -15,6 +15,7 @@ import ContactForm from './pages/ContactForm/ContactForm'
 import Footer from './components/Footer/Footer'
 // import ProjectPage from './pages/ProjectPage/ProjectPage'
 import ProjectTabs from './pages/ProjectPage/ProjectPage'
+import Hero from './components/Hero/Hero'
 
 
 
@@ -38,7 +39,8 @@ function App() {
 
       <div>
         <Container className="container-box" rounded>
-          <StarWarsCrawl />
+          <Hero />
+          {/* <StarWarsCrawl /> */}
         </Container>
       </div>
 
